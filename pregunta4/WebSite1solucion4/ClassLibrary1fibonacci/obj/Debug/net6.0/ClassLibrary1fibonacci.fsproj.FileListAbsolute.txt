@@ -1,0 +1,10 @@
+C:\Users\RAUL\source\repos\WebSite1solucion4\ClassLibrary1fibonacci\bin\Debug\net6.0\ClassLibrary1fibonacci.deps.json
+C:\Users\RAUL\source\repos\WebSite1solucion4\ClassLibrary1fibonacci\bin\Debug\net6.0\ClassLibrary1fibonacci.dll
+C:\Users\RAUL\source\repos\WebSite1solucion4\ClassLibrary1fibonacci\bin\Debug\net6.0\ClassLibrary1fibonacci.pdb
+C:\Users\RAUL\source\repos\WebSite1solucion4\ClassLibrary1fibonacci\bin\Debug\net6.0\ClassLibrary1fibonacci.xml
+C:\Users\RAUL\source\repos\WebSite1solucion4\ClassLibrary1fibonacci\obj\Debug\net6.0\ClassLibrary1fibonacci.fsproj.AssemblyReference.cache
+C:\Users\RAUL\source\repos\WebSite1solucion4\ClassLibrary1fibonacci\obj\Debug\net6.0\ClassLibrary1fibonacci.AssemblyInfoInputs.cache
+C:\Users\RAUL\source\repos\WebSite1solucion4\ClassLibrary1fibonacci\obj\Debug\net6.0\ClassLibrary1fibonacci.AssemblyInfo.fs
+C:\Users\RAUL\source\repos\WebSite1solucion4\ClassLibrary1fibonacci\obj\Debug\net6.0\ClassLibrary1fibonacci.dll
+C:\Users\RAUL\source\repos\WebSite1solucion4\ClassLibrary1fibonacci\obj\Debug\net6.0\ClassLibrary1fibonacci.xml
+C:\Users\RAUL\source\repos\WebSite1solucion4\ClassLibrary1fibonacci\obj\Debug\net6.0\ClassLibrary1fibonacci.pdb
